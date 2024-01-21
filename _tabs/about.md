@@ -11,7 +11,20 @@ order: 4
 
 ## New Media & Podcast
 
-| Creative Editor & Director | Editor-in-Chief & Producer | Assistant Editor |
-| ------------|--------|-------------|
-|![Pınar Sabancı ile Psikopatika](/assets/img/psikopatika.jpg) | ![Barış Özcan ile 111 Hz](/assets/img/barisozcan.jpg) | ![Ozan Gündoğdu ile Trend Topic](/assets/img/trendtopic.jpg) |
-| [![PPlisten](/assets/img/spotify.png)](https://open.spotify.com/show/3KpBHmhPaOCbFwdTShKL4F) | [![111listen](/assets/img/spotify.png)](https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk) | [![TTlisten](/assets/img/spotify.png)](https://open.spotify.com/show/7fryGzY77QapwhSlg3JVOl) |
+#### Creative Editor & Director
+
+![Pınar Sabancı ile Psikopatika](/assets/img/psikopatika.jpg)
+
+[![PPlisten](/assets/img/spotify.png)](https://open.spotify.com/show/3KpBHmhPaOCbFwdTShKL4F)
+
+#### Editor-in-Chief & Producer
+
+![Barış Özcan ile 111 Hz](/assets/img/barisozcan.jpg)
+
+[![111listen](/assets/img/spotify.png)](https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk)
+
+#### Assistant Editor
+![Ozan Gündoğdu ile Trend Topic](/assets/img/trendtopic.jpg)
+
+[![TTlisten](/assets/img/spotify.png)](https://open.spotify.com/show/7fryGzY77QapwhSlg3JVOl)
+
