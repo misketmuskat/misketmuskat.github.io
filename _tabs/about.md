@@ -11,11 +11,7 @@ order: 4
 
 ## New Media & Podcast
 
-![Pınar Sabancı ile Psikopatika](/assets/img/psikopatika.jpg)
-_Psikopatika_
-
-![Barış Özcan ile 111 Hz](/assets/img/barisozcan.jpg)
-_111 Hz_
-
-![Ozan Gündoğdu ile Trend Topic](/assets/img/trendtopic.jpg)
-_Trend Topic_
+| Creative Editor & Director | Editor-in-Chief & Producer | Assistant Editor |
+| ------------|--------|-------------|
+|![Pınar Sabancı ile Psikopatika](/assets/img/psikopatika.jpg) | ![Barış Özcan ile 111 Hz](/assets/img/barisozcan.jpg) | ![Ozan Gündoğdu ile Trend Topic](/assets/img/trendtopic.jpg) |
+| [![PPlisten](/assets/img/spotify.png)](https://open.spotify.com/show/3KpBHmhPaOCbFwdTShKL4F) | [![111listen](/assets/img/spotify.png)](https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk) | [![TTlisten](/assets/img/spotify.png)](https://open.spotify.com/show/7fryGzY77QapwhSlg3JVOl) |
